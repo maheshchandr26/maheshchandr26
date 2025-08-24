@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @maheshchandr26
 - 👀 I’m interested in data science  
-- 🌱 I’m currently learning programming
+- 🌱 I’m currently student of MS Data Science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
