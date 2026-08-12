@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%" alt="Mahesh Chandra - AI Data Science Lab">
+<img src="https://raw.githubusercontent.com/maheshchandr26/maheshchandr26/main/assets/hero.svg" width="100%" alt="Mahesh Chandra - AI Data Science Lab">
 
 </div>
 
