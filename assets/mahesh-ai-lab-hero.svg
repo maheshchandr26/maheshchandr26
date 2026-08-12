@@ -1,0 +1,65 @@
+<svg width="1200" height="430" viewBox="0 0 1200 430" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="430" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#050811"/>
+    <stop offset="1" stop-color="#0B1020"/>
+  </linearGradient>
+  <linearGradient id="accent" x1="180" y1="80" x2="1020" y2="350" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#38BDF8"/>
+    <stop offset="1" stop-color="#8B5CF6"/>
+  </linearGradient>
+  <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+    <feGaussianBlur stdDeviation="5" result="blur"/>
+    <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+  <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse">
+    <path d="M42 0H0V42" stroke="#334155" stroke-opacity=".16"/>
+  </pattern>
+</defs>
+
+<rect width="1200" height="430" rx="24" fill="url(#bg)"/>
+<rect x="1" y="1" width="1198" height="428" rx="23" stroke="#1E293B"/>
+<rect width="1200" height="430" rx="24" fill="url(#grid)"/>
+
+<!-- Neural network -->
+<g stroke="url(#accent)" stroke-opacity=".38" stroke-width="1.5">
+  <path d="M780 74L910 125L1055 72"/>
+  <path d="M780 74L870 220L1055 72"/>
+  <path d="M910 125L870 220L1060 285"/>
+  <path d="M1055 72L1125 178L1060 285"/>
+  <path d="M870 220L760 315L1060 285"/>
+  <path d="M760 315L910 365L1060 285"/>
+  <path d="M1125 178L1060 285L1150 350"/>
+</g>
+
+<g fill="#38BDF8" filter="url(#glow)">
+  <circle cx="780" cy="74" r="4"/>
+  <circle cx="910" cy="125" r="4"/>
+  <circle cx="1055" cy="72" r="4"/>
+  <circle cx="870" cy="220" r="5"/>
+  <circle cx="1125" cy="178" r="4"/>
+</g>
+<g fill="#8B5CF6" filter="url(#glow)">
+  <circle cx="760" cy="315" r="4"/>
+  <circle cx="1060" cy="285" r="5"/>
+  <circle cx="910" cy="365" r="4"/>
+  <circle cx="1150" cy="350" r="4"/>
+</g>
+
+<!-- Header -->
+<text x="72" y="72" fill="#38BDF8" font-family="monospace" font-size="15" letter-spacing="3">AI / DATA SCIENCE LAB</text>
+<text x="72" y="145" fill="#F8FAFC" font-family="Arial, Helvetica, sans-serif" font-size="56" font-weight="700">MAHESH CHANDRA</text>
+<text x="75" y="185" fill="#CBD5E1" font-family="monospace" font-size="18" letter-spacing="2">MACHINE LEARNING  ×  ARTIFICIAL INTELLIGENCE</text>
+
+<!-- Status panel -->
+<rect x="72" y="230" width="510" height="118" rx="14" fill="#0F172A" fill-opacity=".75" stroke="#334155"/>
+<text x="94" y="258" fill="#94A3B8" font-family="monospace" font-size="12" letter-spacing="2">SYSTEM STATUS</text>
+<circle cx="101" cy="286" r="4" fill="#38BDF8"/>
+<text x="114" y="291" fill="#E2E8F0" font-family="monospace" font-size="14">BUILDING  →  ResearchOS</text>
+<circle cx="101" cy="313" r="4" fill="#8B5CF6"/>
+<text x="114" y="318" fill="#E2E8F0" font-family="monospace" font-size="14">EXPLORING →  GenAI / RAG / NLP</text>
+<circle cx="101" cy="340" r="4" fill="#38BDF8"/>
+<text x="114" y="345" fill="#E2E8F0" font-family="monospace" font-size="14">FOCUS     →  Data Science / ML</text>
+
+<text x="72" y="392" fill="#64748B" font-family="monospace" font-size="12">BUILD • EXPERIMENT • LEARN • REPEAT</text>
+</svg>
