@@ -1,86 +1,133 @@
 <div align="center">
 
-# MAHESH CHANDRA
+<img src="./assets/hero.svg" width="100%" alt="Mahesh Chandra - AI Data Science Lab">
 
-### DATA SCIENCE × ARTIFICIAL INTELLIGENCE × MACHINE LEARNING
+</div>
+
+<br>
+
+<div align="center">
+
+## `SYSTEM PROFILE`
+
+**Data Science × Artificial Intelligence × Machine Learning**
 
 Building intelligent systems from data, experimentation and research.
 
 </div>
 
----
+<br>
 
-## SYSTEM PROFILE
+<table>
+<tr>
+<td width="50%">
 
-| | |
-|---|---|
-| 🎓 **Education** | M.Sc. Computer Science — Data Science |
-| 🔬 **Focus** | Machine Learning · AI · Data Science |
-| 🧠 **Exploring** | NLP · GenAI · RAG · Knowledge Graphs |
-| 🚀 **Currently Building** | ResearchOS |
+### 🎓 EDUCATION
 
----
+**M.Sc. Computer Science**  
+Specialization in **Data Science**
 
-## EXPERIMENTS
+Panjab University
 
-### 🧬 RxEats
-Food–Drug Interaction Knowledge Graph
+</td>
 
-**Python · FastAPI · NetworkX · NLP**
+<td width="50%">
 
-3,500+ foods · 3,600+ graph nodes · 14,000+ relationships
+### 🧠 FOCUS
 
-### 🔬 ResearchOS
-AI-powered research workflow and knowledge system
-
-**Python · FastAPI · PostgreSQL · RAG · LLM**
-
-### 🧗 Adventure Sports Recommendation System
-ML-based fitness profiling and sport recommendation
-
-**Python · Scikit-learn · Machine Learning**
-
-### 📊 AI Data Analyzer
-Automated data cleaning, analysis and visualization
-
-**Python · Pandas · Visualization · Streamlit**
-
----
-
-## AI / DATA STACK
-
-**Languages**
-
-Python · SQL · R
-
+**Machine Learning**  
+**Artificial Intelligence**  
 **Data Science**
 
-Pandas · NumPy · Scikit-learn · Matplotlib
+Building practical AI systems.
 
-**Machine Learning**
+</td>
+</tr>
 
-Regression · Classification · Clustering · Ensemble Learning · Feature Engineering
+<tr>
+<td width="50%">
 
-**Artificial Intelligence**
+### 🔬 EXPLORING
 
-NLP · Generative AI · LLMs · RAG · Knowledge Graphs
+`NLP` · `GenAI` · `RAG`  
+`Knowledge Graphs` · `LLMs`
 
-**Engineering**
+</td>
 
-FastAPI · Streamlit · PostgreSQL · Git · GitHub
+<td width="50%">
 
----
+### 🚀 CURRENTLY BUILDING
 
-## ACHIEVEMENT SIGNAL
+**ResearchOS**
 
-🏆 **TOP 20 / 250 TEAMS**
+AI-powered research workflow  
+and knowledge system.
 
-AI Hack Matrix — RxEats
+</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+`DATA` → `ANALYZE` → `MODEL` → `EVALUATE` → `DEPLOY`
+
+</div>
 
 ---
 
 <div align="center">
 
-### BUILD → EXPERIMENT → LEARN → REPEAT
+> **I don't just train models — I build systems around data.**
 
 </div>
+
+---
+
+# `EXPERIMENT LOG`
+
+### `EXP-001` · 🧬 RxEats
+
+### **Food × Drug × Knowledge Graph**
+
+A clinical safety system exploring food–drug interactions using structured data, knowledge graphs and NLP.
+
+**CORE**
+
+`Python` · `FastAPI` · `NetworkX` · `NLP`
+
+**SYSTEM SCALE**
+
+| 3,525+ | 3,678+ | 14,850+ |
+|:---:|:---:|:---:|
+| Foods | Graph Nodes | Relationships |
+
+**STATUS**
+
+`KNOWLEDGE GRAPH` · `BIOMEDICAL NLP` · `AI SYSTEM`
+
+---
+
+### `EXP-002` · 🔬 ResearchOS
+
+### **AI-Powered Research Workflow**
+
+An intelligent research system designed to help process, organize and retrieve information from research documents.
+
+**CORE**
+
+`Python` · `FastAPI` · `PostgreSQL` · `RAG` · `LLM`
+
+**SYSTEM**
+
+```text
+DOCUMENT
+    ↓
+PROCESSING
+    ↓
+RETRIEVAL
+    ↓
+LLM
+    ↓
+RESEARCH INSIGHTS
