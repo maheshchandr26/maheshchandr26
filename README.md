@@ -2,70 +2,101 @@
 
 <img src="https://raw.githubusercontent.com/maheshchandr26/maheshchandr26/main/assets/hero.svg" width="100%" alt="Mahesh Chandra - AI Data Science Lab">
 
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=DATA+SCIENCE+%C3%97+AI+%C3%97+MACHINE+LEARNING;BUILDING+INTELLIGENT+SYSTEMS;EXPERIMENTING+WITH+DATA+%26+MODELS;EXPLORING+GENERATIVE+AI+%26+RAG" alt="Typing Animation">
+
+<br>
+
+<img src="https://img.shields.io/badge/AI%20SYSTEMS-ACTIVE-38BDF8?style=for-the-badge&labelColor=0B1220">
+<img src="https://img.shields.io/badge/ML%20EXPERIMENTS-RUNNING-8B5CF6?style=for-the-badge&labelColor=0B1220">
+<img src="https://img.shields.io/badge/RESEARCH-EXPLORING-EC4899?style=for-the-badge&labelColor=0B1220">
+
 </div>
 
 <br>
+
+---
 
 <div align="center">
 
 ## `SYSTEM PROFILE`
 
-**Data Science × Artificial Intelligence × Machine Learning**
+<img src="https://img.shields.io/badge/DATA%20SCIENCE-38BDF8?style=flat-square&labelColor=0B1220">
+<img src="https://img.shields.io/badge/ARTIFICIAL%20INTELLIGENCE-8B5CF6?style=flat-square&labelColor=0B1220">
+<img src="https://img.shields.io/badge/MACHINE%20LEARNING-EC4899?style=flat-square&labelColor=0B1220">
 
-Building intelligent systems from data, experimentation and research.
+<br><br>
+
+**Building intelligent systems from data, experimentation and research.**
 
 </div>
 
 <br>
 
-<table>
+<table align="center" width="95%">
 <tr>
-<td width="50%" valign="top">
+
+<td width="50%" valign="top" align="center">
 
 ### 🎓 `EDUCATION`
 
-**M.Sc. Computer Science**  
+**M.Sc. Computer Science**
+
 `Specialization → Data Science`
 
 **Panjab University**
 
+<br>
+
+<img src="https://img.shields.io/badge/DATA%20SCIENCE-FOCUS-38BDF8?style=for-the-badge&labelColor=111827">
+
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
 ### 🧠 `PRIMARY FOCUS`
 
-`Machine Learning`  
-`Artificial Intelligence`  
-`Data Science`
+<img src="https://img.shields.io/badge/Machine%20Learning-38BDF8?style=flat-square&labelColor=111827">
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-8B5CF6?style=flat-square&labelColor=111827">
+<img src="https://img.shields.io/badge/Data%20Science-EC4899?style=flat-square&labelColor=111827">
+
+<br><br>
 
 Building practical AI systems.
 
 </td>
+
 </tr>
 
 <tr>
-<td width="50%" valign="top">
+
+<td width="50%" valign="top" align="center">
 
 ### 🔬 `RESEARCH INTERESTS`
 
-`NLP` · `Generative AI`  
-`RAG` · `LLMs`  
-`Knowledge Graphs`
+<img src="https://img.shields.io/badge/NLP-F472B6?style=flat-square&labelColor=111827">
+<img src="https://img.shields.io/badge/GenAI-A78BFA?style=flat-square&labelColor=111827">
+<img src="https://img.shields.io/badge/RAG-38BDF8?style=flat-square&labelColor=111827">
+<img src="https://img.shields.io/badge/LLMs-F59E0B?style=flat-square&labelColor=111827">
+<img src="https://img.shields.io/badge/Knowledge%20Graphs-22D3EE?style=flat-square&labelColor=111827">
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
 ### 🚀 `CURRENTLY BUILDING`
 
-**ResearchOS**
+# ResearchOS
 
-`AI × Research × RAG`
+`AI × RESEARCH × RAG`
 
-An intelligent research workflow and knowledge system.
+AI-powered research workflow and knowledge system.
+
+<img src="https://img.shields.io/badge/STATUS-ACTIVE-22C55E?style=for-the-badge&labelColor=111827">
 
 </td>
+
 </tr>
 </table>
 
@@ -73,13 +104,21 @@ An intelligent research workflow and knowledge system.
 
 <div align="center">
 
-`DATA` → `ANALYZE` → `ENGINEER` → `MODEL` → `EVALUATE` → `DEPLOY`
+### `DATA PIPELINE`
 
-</div>
+`RAW DATA`  
+↓  
+`ANALYZE`  
+↓  
+`ENGINEER`  
+↓  
+`MODEL`  
+↓  
+`EVALUATE`  
+↓  
+`DEPLOY`
 
 <br>
-
-<div align="center">
 
 > **I don't just train models — I build systems around data.**
 
@@ -87,90 +126,124 @@ An intelligent research workflow and knowledge system.
 
 ---
 
-## `EXP-001` · 🧬 RxEats
+<div align="center">
+
+# `EXPERIMENT LOG`
+
+<img src="https://img.shields.io/badge/04-PROJECTS-38BDF8?style=for-the-badge&labelColor=0B1220">
+<img src="https://img.shields.io/badge/AI%20%2B%20ML-ACTIVE-8B5CF6?style=for-the-badge&labelColor=0B1220">
+<img src="https://img.shields.io/badge/RESEARCH-ONGOING-EC4899?style=for-the-badge&labelColor=0B1220">
+
+</div>
+
+<br>
+
+<table align="center" width="95%">
+<tr>
+
+<td width="50%" valign="top">
+
+<div align="center">
+
+## `EXP-001`
+
+# 🧬 RxEats
 
 ### `FOOD × DRUG × KNOWLEDGE GRAPH`
 
+</div>
+
 A clinical safety system exploring food–drug interactions using structured data, knowledge graphs and NLP.
 
-### `CORE TECHNOLOGIES`
+**CORE**
 
 `Python` · `FastAPI` · `NetworkX` · `NLP`
 
-### `SYSTEM SCALE`
+<div align="center">
 
 | 3,525+ | 3,678+ | 14,850+ |
 |:---:|:---:|:---:|
-| Foods | Graph Nodes | Relationships |
+| 🍎 Foods | 🔵 Nodes | 🔗 Edges |
 
-### `SYSTEM PIPELINE`
+<br>
 
-```text
-FOOD / NUTRIENT
-       ↓
-INTERACTION DATA
-       ↓
-KNOWLEDGE GRAPH
-       ↓
-REASONING ENGINE
-       ↓
-SAFETY ANALYSIS
-```
+<img src="https://img.shields.io/badge/KNOWLEDGE%20GRAPH-38BDF8?style=flat-square&labelColor=111827">
+<img src="https://img.shields.io/badge/BIOMEDICAL%20NLP-8B5CF6?style=flat-square&labelColor=111827">
+<img src="https://img.shields.io/badge/AI%20SYSTEM-EC4899?style=flat-square&labelColor=111827">
 
-### `STATUS`
+</div>
 
-`KNOWLEDGE GRAPH` · `BIOMEDICAL NLP` · `AI SYSTEM`
+</td>
 
----
+<td width="50%" valign="top">
 
-## `EXP-002` · 🔬 ResearchOS
+<div align="center">
+
+## `EXP-002`
+
+# 🔬 ResearchOS
 
 ### `AI-POWERED RESEARCH WORKFLOW`
 
+</div>
+
 An intelligent research system designed to process, organize, retrieve and reason over research documents.
 
-### `CORE TECHNOLOGIES`
+**CORE**
 
 `Python` · `FastAPI` · `PostgreSQL` · `RAG` · `LLM`
 
-### `SYSTEM PIPELINE`
+<div align="center">
 
 ```text
-RESEARCH DOCUMENT
-        ↓
-DOCUMENT PROCESSING
-        ↓
-CHUNKING / EMBEDDINGS
-        ↓
-RETRIEVAL
-        ↓
-LLM REASONING
-        ↓
-RESEARCH INSIGHTS
+DOCUMENT
+    ↓
+PROCESS
+    ↓
+EMBED
+    ↓
+RETRIEVE
+    ↓
+REASON
+    ↓
+INSIGHT
 ```
 
-### `STATUS`
+<img src="https://img.shields.io/badge/RAG-ACTIVE-38BDF8?style=flat-square&labelColor=111827">
+<img src="https://img.shields.io/badge/LLM-POWERED-8B5CF6?style=flat-square&labelColor=111827">
 
-`ACTIVE DEVELOPMENT` · `RAG` · `LLM` · `AI RESEARCH`
+</div>
 
----
+</td>
 
-## `EXP-003` · 🧗 AdventureFit AI
+</tr>
 
-### `FITNESS × RECOMMENDATION × MACHINE LEARNING`
+<tr>
+
+<td width="50%" valign="top">
+
+<div align="center">
+
+## `EXP-003`
+
+# 🧗 AdventureFit AI
+
+### `FITNESS × RECOMMENDATION × ML`
+
+</div>
 
 An ML-based recommendation system that evaluates fitness capabilities and recommends suitable adventure sports.
 
-### `CORE TECHNOLOGIES`
+**CORE**
 
-`Python` · `Pandas` · `Scikit-learn` · `Machine Learning`
+`Python` · `Pandas` · `Scikit-learn`
 
-### `INPUT SIGNALS`
+**SIGNALS**
 
 `Strength` · `Endurance` · `Balance`  
 `Flexibility` · `Grip` · `Core` · `Cardio`
 
-### `SYSTEM PIPELINE`
+<div align="center">
 
 ```text
 FITNESS PROFILE
@@ -184,161 +257,71 @@ SPORT RECOMMENDATION
 EXERCISE GUIDANCE
 ```
 
-### `STATUS`
+<img src="https://img.shields.io/badge/RECOMMENDATION-38BDF8?style=flat-square&labelColor=111827">
+<img src="https://img.shields.io/badge/CLASSIFICATION-8B5CF6?style=flat-square&labelColor=111827">
 
-`RECOMMENDATION SYSTEM` · `CLASSIFICATION` · `FITNESS ANALYTICS`
+</div>
 
----
+</td>
 
-## `EXP-004` · 🦴 Spine AI
+<td width="50%" valign="top">
 
-### `AI × COMPUTER VISION × POSTURE ANALYSIS`
+<div align="center">
+
+## `EXP-004`
+
+# 🦴 Spine AI
+
+### `AI × COMPUTER VISION × POSTURE`
+
+</div>
 
 An AI-powered project focused on posture and spine alignment analysis using computer vision.
 
-### `CORE TECHNOLOGIES`
+**CORE**
 
-`Python` · `Computer Vision` · `AI` · `Posture Analysis`
+`Python` · `Computer Vision` · `AI`
 
-### `SYSTEM PIPELINE`
+<div align="center">
 
 ```text
 CAMERA / IMAGE
        ↓
 POSE DETECTION
        ↓
-LANDMARK EXTRACTION
+LANDMARKS
        ↓
 POSTURE ANALYSIS
        ↓
 SPINE ALIGNMENT
        ↓
-FEEDBACK / ALERT
+FEEDBACK
 ```
 
-### `PROJECT OUTPUT`
+<img src="https://img.shields.io/badge/COMPUTER%20VISION-EC4899?style=flat-square&labelColor=111827">
+<img src="https://img.shields.io/badge/POSTURE%20ANALYSIS-8B5CF6?style=flat-square&labelColor=111827">
+<img src="https://img.shields.io/badge/AI%20SYSTEM-38BDF8?style=flat-square&labelColor=111827">
 
-`POSTURE DETECTION` · `SPINE ANALYSIS` · `REAL-TIME FEEDBACK`
+<br><br>
 
-### `STATUS`
+<a href="https://drive.google.com/file/d/1mwerS2GRJRWFNbf2z4USkJvB7LgLifD1/view">
 
-`AI SYSTEM` · `COMPUTER VISION` · `ACTIVE PROJECT`
+<img src="https://img.shields.io/badge/▶%20WATCH%20DEMO-F59E0B?style=for-the-badge&labelColor=111827">
 
-### `DEMO`
+</a>
 
-[▶️ Watch Project Demo](https://drive.google.com/file/d/1mwerS2GRJRWFNbf2z4USkJvB7LgLifD1/view)
+</div>
 
-[⚙️ Download / Run Project](https://drive.google.com/file/d/18qf-36iVP8RfBNOSbx_PIWzwP4zjURX2/view)
+</td>
 
----
-
-## `STACK-001` · 🐍 Data Science
-
-### `DATA SCIENCE TOOLKIT`
-
-<p>
-<img src="https://img.shields.io/badge/Python-0B1220?style=for-the-badge&logo=python&logoColor=38BDF8">
-<img src="https://img.shields.io/badge/Pandas-0B1220?style=for-the-badge&logo=pandas&logoColor=38BDF8">
-<img src="https://img.shields.io/badge/NumPy-0B1220?style=for-the-badge&logo=numpy&logoColor=38BDF8">
-<img src="https://img.shields.io/badge/Scikit--Learn-0B1220?style=for-the-badge&logo=scikit-learn&logoColor=38BDF8">
-<img src="https://img.shields.io/badge/Matplotlib-0B1220?style=for-the-badge&logo=matplotlib&logoColor=38BDF8">
-</p>
+</tr>
+</table>
 
 ---
-
-## `STACK-002` · 🤖 Machine Learning
-
-### `MACHINE LEARNING TOOLKIT`
-
-```text
-REGRESSION
-CLASSIFICATION
-CLUSTERING
-ENSEMBLE LEARNING
-FEATURE ENGINEERING
-MODEL EVALUATION
-HYPERPARAMETER TUNING
-```
-
----
-
-## `STACK-003` · 🧠 Artificial Intelligence
-
-### `AI / GENAI TOOLKIT`
-
-<p>
-<img src="https://img.shields.io/badge/NLP-0B1220?style=for-the-badge&logoColor=8B5CF6">
-<img src="https://img.shields.io/badge/Generative_AI-0B1220?style=for-the-badge&logoColor=8B5CF6">
-<img src="https://img.shields.io/badge/RAG-0B1220?style=for-the-badge&logoColor=8B5CF6">
-<img src="https://img.shields.io/badge/LLMs-0B1220?style=for-the-badge&logoColor=8B5CF6">
-</p>
-
-`NLP` · `LLMs` · `RAG` · `Generative AI`
-
-`Knowledge Graphs` · `AI Agents`
-
----
-
-## `STACK-004` · ⚙️ Engineering
-
-### `DATA & AI ENGINEERING`
-
-<p>
-<img src="https://img.shields.io/badge/FastAPI-0B1220?style=for-the-badge&logo=fastapi&logoColor=38BDF8">
-<img src="https://img.shields.io/badge/Streamlit-0B1220?style=for-the-badge&logo=streamlit&logoColor=38BDF8">
-<img src="https://img.shields.io/badge/PostgreSQL-0B1220?style=for-the-badge&logo=postgresql&logoColor=38BDF8">
-<img src="https://img.shields.io/badge/Git-0B1220?style=for-the-badge&logo=git&logoColor=38BDF8">
-<img src="https://img.shields.io/badge/GitHub-0B1220?style=for-the-badge&logo=github&logoColor=FFFFFF">
-</p>
-
-`FastAPI` · `Streamlit` · `PostgreSQL`
-
-`Git` · `GitHub` · `REST APIs`
-
----
-
-## `RESEARCH-001` · 🔬 Research Interests
-
-### `AREAS I'M EXPLORING`
-
-| DOMAIN | FOCUS |
-|:---|:---|
-| 🧠 **Machine Learning** | Predictive Modeling · Classification · Recommendation |
-| 🤖 **Generative AI** | LLMs · RAG · AI Applications |
-| 📝 **NLP** | Information Extraction · Text Processing |
-| 🕸️ **Knowledge Graphs** | Graph-Based Reasoning · Entity Relationships |
-| 📊 **Data Science** | EDA · Feature Engineering · Statistical Analysis |
-| 🔬 **AI Research** | Research Automation · Intelligent Systems |
-
----
-
-## `ACH-001` · 🏆 Achievement Signal
-
-### `TOP 20 / 250 TEAMS`
-
-**AI Hack Matrix**
-
-Built **RxEats**, an AI-powered Food–Drug Interaction System.
-
-```text
-250 TEAMS
-    ↓
-AI HACK MATRIX
-    ↓
-RXEATS
-    ↓
-TOP 20
-```
-
----
-
-## `GITHUB-001` · 📊 Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=maheshchandr26&show_icons=true&hide_border=true&bg_color=0B1220&title_color=38BDF8&text_color=CBD5E1&icon_color=8B5CF6" height="180">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maheshchandr26&layout=compact&hide_border=true&bg_color=0B1220&title_color=38BDF8&text_color=CBD5E1" height="180">
+# `AI / DATA STACK`
 
 </div>
 
@@ -346,48 +329,277 @@ TOP 20
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=maheshchandr26&hide_border=true&background=0B1220&ring=38BDF8&fire=8B5CF6&currStreakLabel=38BDF8&sideLabels=CBD5E1&dates=64748B" width="70%">
+### 🐍 `DATA SCIENCE`
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white">
+
+<br><br>
+
+### 🤖 `MACHINE LEARNING`
+
+<img src="https://img.shields.io/badge/Regression-38BDF8?style=for-the-badge&labelColor=111827">
+<img src="https://img.shields.io/badge/Classification-8B5CF6?style=for-the-badge&labelColor=111827">
+<img src="https://img.shields.io/badge/Clustering-EC4899?style=for-the-badge&labelColor=111827">
+<img src="https://img.shields.io/badge/Ensemble%20Learning-F59E0B?style=for-the-badge&labelColor=111827">
+<img src="https://img.shields.io/badge/Feature%20Engineering-22D3EE?style=for-the-badge&labelColor=111827">
+
+<br><br>
+
+### 🧠 `ARTIFICIAL INTELLIGENCE`
+
+<img src="https://img.shields.io/badge/NLP-F472B6?style=for-the-badge&labelColor=111827">
+<img src="https://img.shields.io/badge/GenAI-8B5CF6?style=for-the-badge&labelColor=111827">
+<img src="https://img.shields.io/badge/LLMs-38BDF8?style=for-the-badge&labelColor=111827">
+<img src="https://img.shields.io/badge/RAG-F59E0B?style=for-the-badge&labelColor=111827">
+<img src="https://img.shields.io/badge/Knowledge%20Graphs-22D3EE?style=for-the-badge&labelColor=111827">
+<img src="https://img.shields.io/badge/AI%20Agents-EC4899?style=for-the-badge&labelColor=111827">
+
+<br><br>
+
+### ⚙️ `DATA / AI ENGINEERING`
+
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white">
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 
 </div>
 
 ---
 
-## `STATUS-001` · 🚀 Currently Exploring
+<div align="center">
 
-```text
-┌──────────────────────────────────────────────────────────┐
-│                                                          │
-│  → ADVANCED MACHINE LEARNING                             │
-│  → GENERATIVE AI                                         │
-│  → RAG SYSTEMS                                           │
-│  → AI AGENTS                                             │
-│  → NLP                                                   │
-│  → KNOWLEDGE GRAPH REASONING                             │
-│  → AI SYSTEM DESIGN                                      │
-│                                                          │
-└──────────────────────────────────────────────────────────┘
-```
+# `RESEARCH-001`
+
+### 🔬 `AREAS I'M EXPLORING`
+
+<table align="center">
+
+<tr>
+
+<td align="center">
+
+🧠  
+**MACHINE LEARNING**
+
+Predictive Modeling  
+Classification  
+Recommendation
+
+</td>
+
+<td align="center">
+
+🤖  
+**GENERATIVE AI**
+
+LLMs  
+RAG  
+AI Applications
+
+</td>
+
+<td align="center">
+
+📝  
+**NLP**
+
+Information Extraction  
+Text Processing
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+🕸️  
+**KNOWLEDGE GRAPHS**
+
+Graph Reasoning  
+Entity Relationships
+
+</td>
+
+<td align="center">
+
+📊  
+**DATA SCIENCE**
+
+EDA  
+Feature Engineering  
+Statistics
+
+</td>
+
+<td align="center">
+
+🔬  
+**AI RESEARCH**
+
+Research Automation  
+Intelligent Systems
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
 
 ---
 
-## `CONNECT-001` · 🌐 Connect
+<div align="center">
+
+# `ACH-001` · 🏆
+
+<img src="https://img.shields.io/badge/TOP%2020-250%20TEAMS-F59E0B?style=for-the-badge&labelColor=111827">
+
+### `AI HACK MATRIX`
+
+**Built RxEats — AI-powered Food–Drug Interaction System**
+
+<br>
+
+`250 TEAMS` → `AI HACK MATRIX` → `RXEATS` → `TOP 20`
+
+</div>
+
+---
 
 <div align="center">
 
+# `GITHUB-001` · 📊
+
+### `REPOSITORY SIGNAL`
+
+<img src="https://img.shields.io/badge/OPEN%20SOURCE-38BDF8?style=for-the-badge&labelColor=111827">
+<img src="https://img.shields.io/badge/PROJECTS-8B5CF6?style=for-the-badge&labelColor=111827">
+<img src="https://img.shields.io/badge/EXPERIMENTS-EC4899?style=for-the-badge&labelColor=111827">
+
+<br><br>
+
+<table align="center" width="90%">
+
+<tr>
+
+<td align="center" width="33%">
+
+### `01`
+
+# `BUILD`
+
+AI / ML Projects
+
+<br>
+
+<img src="https://img.shields.io/badge/CODE-38BDF8?style=flat-square&labelColor=111827">
+<img src="https://img.shields.io/badge/CREATE-8B5CF6?style=flat-square&labelColor=111827">
+<img src="https://img.shields.io/badge/DEPLOY-EC4899?style=flat-square&labelColor=111827">
+
+</td>
+
+<td align="center" width="33%">
+
+### `02`
+
+# `EXPERIMENT`
+
+Data + Models
+
+<br>
+
+<img src="https://img.shields.io/badge/TEST-38BDF8?style=flat-square&labelColor=111827">
+<img src="https://img.shields.io/badge/EVALUATE-F59E0B?style=flat-square&labelColor=111827">
+<img src="https://img.shields.io/badge/ITERATE-8B5CF6?style=flat-square&labelColor=111827">
+
+</td>
+
+<td align="center" width="33%">
+
+### `03`
+
+# `ITERATE`
+
+Learn → Improve
+
+<br>
+
+<img src="https://img.shields.io/badge/ANALYZE-22D3EE?style=flat-square&labelColor=111827">
+<img src="https://img.shields.io/badge/REFINE-8B5CF6?style=flat-square&labelColor=111827">
+<img src="https://img.shields.io/badge/REPEAT-EC4899?style=flat-square&labelColor=111827">
+
+</td>
+
+</tr>
+
+</table>
+
+<br>
+
+`GITHUB` → `CODE` → `EXPERIMENT` → `LEARN` → `BUILD AGAIN`
+
+</div>
+
+---
+
+<div align="center">
+
+# `STATUS-001` · 🚀
+
+### `CURRENTLY EXPLORING`
+
+<img src="https://img.shields.io/badge/ADVANCED%20ML-38BDF8?style=for-the-badge&labelColor=111827">
+<img src="https://img.shields.io/badge/GENERATIVE%20AI-8B5CF6?style=for-the-badge&labelColor=111827">
+<img src="https://img.shields.io/badge/RAG-EC4899?style=for-the-badge&labelColor=111827">
+<img src="https://img.shields.io/badge/AI%20AGENTS-F59E0B?style=for-the-badge&labelColor=111827">
+<img src="https://img.shields.io/badge/NLP-22D3EE?style=for-the-badge&labelColor=111827">
+<img src="https://img.shields.io/badge/KNOWLEDGE%20GRAPHS-A78BFA?style=for-the-badge&labelColor=111827">
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2500&pause=700&color=8B5CF6&center=true&vCenter=true&width=600&lines=LEARN+%E2%86%92+EXPERIMENT+%E2%86%92+BUILD;DATA+%E2%86%92+MODELS+%E2%86%92+INTELLIGENCE;RESEARCH+%E2%86%92+SYSTEMS+%E2%86%92+IMPACT" alt="Exploration Animation">
+
+</div>
+
+---
+
+<div align="center">
+
+# `CONNECT-001` · 🌐
+
+### `FIND ME`
+
 <a href="https://github.com/maheshchandr26">
-<img src="https://img.shields.io/badge/GitHub-0B1220?style=for-the-badge&logo=github&logoColor=FFFFFF">
+
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white">
+
 </a>
 
 <a href="https://www.linkedin.com/in/mahesh-chandra26/">
-<img src="https://img.shields.io/badge/LinkedIn-0B1220?style=for-the-badge&logo=linkedin&logoColor=38BDF8">
+
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+
 </a>
 
-</div>
+<br><br>
 
-<br>
+<img src="https://img.shields.io/badge/SYSTEM-ONLINE-22C55E?style=for-the-badge&labelColor=111827">
 
-<div align="center">
+<br><br>
 
 `BUILD` → `EXPERIMENT` → `LEARN` → `REPEAT`
+
+<br><br>
+
+⭐ **Thanks for visiting my GitHub Lab**
 
 </div>
